@@ -1,0 +1,2 @@
+vhdl isim_temp "firepanel.vhf"
+vhdl isim_temp "Firepanel_test.vhd"

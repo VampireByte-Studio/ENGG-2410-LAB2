@@ -1,0 +1,8 @@
+NET "Z3" LOC = "T5"; #SW7
+NET "Z2" LOC = "V8"; #SW6
+NET "Z1" LOC = "U8"; #SW5
+NET "Z0" LOC = "N8"; #SW4
+
+NET "C1" LOC = "U15"; #LD2
+NET "C0" LOC = "V16"; #LD1
+NET "VALID" LOC = "U16"; #LD0

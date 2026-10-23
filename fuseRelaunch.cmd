@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ISE/lab_firepanel_group64/firepanel_firepanel_sch_tb_isim_beh.exe" -prj "/home/ise/ISE/lab_firepanel_group64/firepanel_firepanel_sch_tb_beh.prj" "work.firepanel_firepanel_sch_tb" 

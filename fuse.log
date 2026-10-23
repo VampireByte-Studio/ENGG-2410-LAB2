@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ISE/lab_firepanel_group64/firepanel_firepanel_sch_tb_isim_beh.exe" -prj "/home/ise/ISE/lab_firepanel_group64/firepanel_firepanel_sch_tb_beh.prj" "work.firepanel_firepanel_sch_tb" 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/ISE/lab_firepanel_group64/firepanel.vhf" into library work
+Parsing VHDL file "/home/ise/ISE/lab_firepanel_group64/Firepanel_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 112864 KB
+Fuse CPU Usage: 750 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture behavioral of entity firepanel [firepanel_default]
+Compiling architecture behavioral of entity firepanel_firepanel_sch_tb
+Time Resolution for simulation is 1ps.
+Compiled 13 VHDL Units
+Built simulation executable /home/ise/ISE/lab_firepanel_group64/firepanel_firepanel_sch_tb_isim_beh.exe
+Fuse Memory Usage: 128228 KB
+Fuse CPU Usage: 860 ms
+GCC CPU Usage: 190 ms
